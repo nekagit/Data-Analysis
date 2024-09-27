@@ -1,0 +1,101 @@
+Employee ID, First Name , Last Name , Department, Position      , Salary , Salary_EUR
+101        , John       , Doe       , Marketing , Manager       , 50000.0, 42500.0
+102        , Jane       , Smith     , Sales     , Associate     , 35000.0, 29750.0
+103        , Michael    , Johnson   , Finance   , Analyst       ,        , 
+104        , Emily      , Williams  , HR        , Coordinator   , 40000.0, 34000.0
+105        , David      , Brown     , IT        , Developer     , 55000.0, 46750.0
+106        , Sarah      , Davis     , Marketing , Specialist    , 42000.0, 35700.0
+107        , Robert     , Miller    , Sales     , Manager       , 60000.0, 51000.0
+108        , Jennifer   , Wilson    , Finance   , Director      , 75000.0, 63750.0
+109        , William    , Moore     , HR        , Manager       , 58000.0, 49300.0
+110        , Elizabeth  , Taylor    , IT        , Analyst       , 48000.0, 40800.0
+111        , James      , Anderson  , Marketing , Coordinator   , 38000.0, 32300.0
+112        , Patricia   , Thomas    , Sales     , Representative, 41000.0, 34850.0
+113        , Richard    , Jackson   , Finance   , Accountant    , 52000.0, 44200.0
+114        , Linda      , White     , HR        , Recruiter     , 45000.0, 38250.0
+115        , Charles    , Harris    , IT        , Administrator , 51000.0, 43350.0
+116        , Barbara    , Martin    , Marketing , Director      , 72000.0, 61200.0
+117        , Joseph     , Thompson  , Sales     , Executive     , 65000.0, 55250.0
+118        , Margaret   , Garcia    , Finance   , Controller    , 70000.0, 59500.0
+119        , Christopher, Martinez  , HR        , Specialist    , 47000.0, 39950.0
+120        , Susan      , Robinson  , IT        , Manager       , 62000.0, 52700.0
+121        , Daniel     , Clark     , Marketing , Analyst       , 46000.0, 39100.0
+122        , Jessica    , Rodriguez , Sales     , Coordinator   , 39000.0, 33150.0
+123        , Paul       , Lewis     , Finance   , Manager       , 68000.0, 57800.0
+124        , Nancy      , Lee       , HR        , Director      , 71000.0, 60350.0
+125        , Mark       , Walker    , IT        , Engineer      , 57000.0, 48450.0
+126        , Karen      , Hall      , Marketing , Associate     , 36000.0, 30600.0
+127        , Donald     , Allen     , Sales     , Manager       , 59000.0, 50150.0
+128        , Lisa       , Young     , Finance   , Analyst       , 50000.0, 42500.0
+129        , George     , Hernandez , HR        , Coordinator   , 41000.0, 34850.0
+130        , Betty      , King      , IT        , Developer     , 54000.0, 45900.0
+131        , Steven     , Wright    , Marketing , Manager       , 61000.0, 51850.0
+132        , Dorothy    , Lopez     , Sales     , Representative, 43000.0, 36550.0
+133        , Kenneth    , Hill      , Finance   , Accountant    , 53000.0, 45050.0
+134        , Helen      , Scott     , HR        , Specialist    , 46000.0, 39100.0
+135        , Edward     , Green     , IT        , Analyst       , 49000.0, 41650.0
+136        , Sandra     , Adams     , Marketing , Coordinator   , 37000.0, 31450.0
+137        , Brian      , Baker     , Sales     , Executive     , 63000.0, 53550.0
+138        , Ashley     , Gonzalez  , Finance   , Controller    , 69000.0, 58650.0
+139        , Ronald     , Nelson    , HR        , Manager       , 57000.0, 48450.0
+140        , Kimberly   , Carter    , IT        , Administrator , 52000.0, 44200.0
+141        , Jason      , Mitchell  , Marketing , Specialist    , 44000.0, 37400.0
+142        , Deborah    , Perez     , Sales     , Associate     , 38000.0, 32300.0
+143        , Jeffrey    , Roberts   , Finance   , Director      , 74000.0, 62900.0
+144        , Sharon     , Turner    , HR        , Recruiter     , 47000.0, 39950.0
+145        , Ryan       , Phillips  , IT        , Engineer      , 56000.0, 47600.0
+146        , Cynthia    , Campbell  , Marketing , Analyst       , 45000.0, 38250.0
+147        , Gary       , Parker    , Sales     , Manager       , 58000.0, 49300.0
+148        , Kathleen   , Evans     , Finance   , Analyst       , 51000.0, 43350.0
+149        , Timothy    , Edwards   , HR        , Coordinator   , 42000.0, 35700.0
+150        , Donna      , Collins   , IT        , Developer     , 55000.0, 46750.0
+151        , Jose       , Stewart   , Marketing , Director      , 73000.0, 62050.0
+152        , Carol      , Sanchez   , Sales     , Representative, 44000.0, 37400.0
+153        , Larry      , Morris    , Finance   , Manager       , 67000.0, 56950.0
+154        , Michelle   , Rogers    , HR        , Specialist    , 48000.0, 40800.0
+155        , Scott      , Reed      , IT        , Analyst       , 50000.0, 42500.0
+156        , Laura      , Cook      , Marketing , Coordinator   , 39000.0, 33150.0
+157        , Stephen    , Morgan    , Sales     , Executive     , 64000.0, 54400.0
+158        , Rebecca    , Bell      , Finance   , Controller    , 71000.0, 60350.0
+159        , Frank      , Murphy    , HR        , Manager       , 59000.0, 50150.0
+160        , Judith     , Bailey    , IT        , Administrator , 53000.0, 45050.0
+161        , Gregory    , Rivera    , Marketing , Manager       , 62000.0, 52700.0
+162        , Cheryl     , Cooper    , Sales     , Associate     , 37000.0, 31450.0
+163        , Raymond    , Richardson, Finance   , Director      , 76000.0, 64600.0
+164        , Carolyn    , Cox       , HR        , Recruiter     , 46000.0, 39100.0
+165        , Benjamin   , Howard    , IT        , Engineer      , 58000.0, 49300.0
+166        , Maria      , Ward      , Marketing , Specialist    , 43000.0, 36550.0
+167        , Peter      , Torres    , Sales     , Manager       , 60000.0, 51000.0
+168        , Janet      , Peterson  , Finance   , Analyst       , 52000.0, 44200.0
+169        , Dennis     , Gray      , HR        , Coordinator   , 40000.0, 34000.0
+170        , Ruth       , Ramirez   , IT        , Developer     , 56000.0, 47600.0
+171        , Terry      , James     , Marketing , Director      , 74000.0, 62900.0
+172        , Diane      , Watson    , Sales     , Representative, 45000.0, 38250.0
+173        , Wayne      , Brooks    , Finance   , Manager       , 69000.0, 58650.0
+174        , Theresa    , Kelly     , HR        , Specialist    , 49000.0, 41650.0
+175        , Arthur     , Sanders   , IT        , Analyst       , 51000.0, 43350.0
+176        , Pamela     , Price     , Marketing , Coordinator   , 38000.0, 32300.0
+177        , Walter     , Bennett   , Sales     , Executive     , 66000.0, 56100.0
+178        , Nicole     , Wood      , Finance   , Controller    , 72000.0, 61200.0
+179        , Bruce      , Barnes    , HR        , Manager       , 58000.0, 49300.0
+180        , Martha     , Ross      , IT        , Administrator , 54000.0, 45900.0
+181        , Lawrence   , Henderson , Marketing , Manager       , 63000.0, 53550.0
+182        , Alice      , Coleman   , Sales     , Associate     , 39000.0, 33150.0
+183        , Jeremy     , Jenkins   , Finance   , Director      , 77000.0, 65450.0
+184        , Ann        , Perry     , HR        , Recruiter     , 48000.0, 40800.0
+185        , Gerald     , Powell    , IT        , Engineer      , 59000.0, 50150.0
+186        , Virginia   , Long      , Marketing , Analyst       , 47000.0, 39950.0
+187        , Roger      , Patterson , Sales     , Manager       , 61000.0, 51850.0
+188        , Jean       , Hughes    , Finance   , Analyst       , 53000.0, 45050.0
+189        , Roy        , Flores    , HR        , Coordinator   , 41000.0, 34850.0
+190        , Christina  , Washington, IT        , Developer     , 57000.0, 48450.0
+191        , Philip     , Butler    , Marketing , Director      , 75000.0, 63750.0
+192        , Lori       , Simmons   , Sales     , Representative, 46000.0, 39100.0
+193        , Johnny     , Foster    , Finance   , Manager       , 70000.0, 59500.0
+194        , Julie      , Gonzales  , HR        , Specialist    , 50000.0, 42500.0
+195        , Carl       , Bryant    , IT        , Analyst       , 52000.0, 44200.0
+196        , Jacqueline , Alexander , Marketing , Coordinator   , 40000.0, 34000.0
+197        , Keith      , Russell   , Sales     , Executive     , 67000.0, 56950.0
+198        , Kathryn    , Griffin   , Finance   , Controller    , 73000.0, 62050.0
+199        , Samuel     , Diaz      , HR        , Manager       , 60000.0, 51000.0
+200        , Judith     , Hayes     , IT        , Administrator , 55000.0, 46750.0

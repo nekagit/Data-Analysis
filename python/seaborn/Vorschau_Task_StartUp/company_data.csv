@@ -1,0 +1,11 @@
+CompanyWideExpenses   , Amount
+Insurance             , 50000
+LegalFees             , 30000
+Taxes                 , 200000
+DebtPayments          , 100000
+ResearchAndDevelopment, 150000
+EmployeeBenefits      , 180000
+Rent                  , 100000
+Maintenance           , 25000
+Subscriptions         , 10000
+Charitable Donations  , 15000

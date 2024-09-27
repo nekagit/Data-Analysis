@@ -1,0 +1,11 @@
+EmployeeID, FirstName, LastName, Role                , Department       , Salary, StartDate , Project        , PerformanceRating
+1         , John     , Doe     , Software Engineer   , Development      , 70000 , 2022-01-15, Project Alpha  , 4.5
+2         , Jane     , Smith   , Data Scientist      , Data Science     , 75000 , 2021-06-01, Project Beta   , 4.7
+3         , Michael  , Johnson , UX Designer         , Design           , 68000 , 2023-03-10, Project Gamma  , 4.2
+4         , Emily    , Williams, Product Manager     , Management       , 80000 , 2020-11-01, Project Delta  , 4.6
+5         , David    , Brown   , QA Engineer         , Quality Assurance, 65000 , 2022-07-15, Project Epsilon, 4.1
+6         , Alice    , Davis   , DevOps Engineer     , Operations       , 72000 , 2021-09-20, Project Zeta   , 4.3
+7         , Robert   , Wilson  , Backend Developer   , Development      , 71000 , 2023-02-05, Project Alpha  , 4.4
+8         , Laura    , Moore   , Frontend Developer  , Development      , 69000 , 2022-10-25, Project Beta   , 4.0
+9         , James    , Taylor  , HR Manager          , Human Resources  , 73000 , 2020-12-01, NA             , 4.8
+10        , Emma     , Anderson, Marketing Specialist, Marketing        , 67000 , 2021-08-15, Project Gamma  , 4.2

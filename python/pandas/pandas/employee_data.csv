@@ -1,0 +1,5 @@
+Employee ID, First Name, Last Name, Department, Position   , Salary , Salary_EUR
+101        , John      , Doe      , Marketing , Manager    , 50000.0, 42500.0
+102        , Jane      , Smith    , Sales     , Associate  , 35000.0, 29750.0
+103        , Michael   , Johnson  , Finance   , Analyst    ,        , 
+104        , Emily     , Williams , HR        , Coordinator, 40000.0, 34000.0

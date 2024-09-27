@@ -1,0 +1,51 @@
+ID, Vorname  , Nachname  , Abteilung, Position   , Salary
+1 , Anna     , Müller    , Marketing, Manager    , 55000
+2 , Bernd    , Schmidt   , Finance  , Analyst    , 42000
+3 , Christine, Weber     , HR       , Specialist , 38000
+4 , Daniel   , Koch      , IT       , Developer  , 60000
+5 , Eva      , Bauer     , Marketing, Coordinator, 35000
+6 , Frank    , Wagner    , Finance  , Manager    , 70000
+7 , Greta    , Hoffmann  , HR       , Manager    , 65000
+8 , Hans     , Schäfer   , IT       , Architect  , 75000
+9 , Ingrid   , Fischer   , Marketing, Specialist , 40000
+10, Jan      , Meyer     , Finance  , Analyst    , 45000
+11, Karin    , Schulz    , HR       , Coordinator, 36000
+12, Lukas    , Becker    , IT       , Developer  , 58000
+13, Maria    , Krüger    , Marketing, Manager    , 62000
+14, Nils     , Richter   , Finance  , Specialist , 48000
+15, Olivia   , Klein     , HR       , Analyst    , 42000
+16, Peter    , Wolf      , IT       , Manager    , 80000
+17, Quentina , Lange     , Marketing, Coordinator, 37000
+18, Robert   , Schmitt   , Finance  , Analyst    , 44000
+19, Sandra   , Schröder  , HR       , Specialist , 39000
+20, Thomas   , Neumann   , IT       , Developer  , 59000
+21, Ursula   , Braun     , Marketing, Specialist , 41000
+22, Viktor   , Schwarz   , Finance  , Manager    , 72000
+23, Waltraud , Weiß      , HR       , Coordinator, 37000
+24, Xaver    , Zimmermann, IT       , Architect  , 78000
+25, Yvonne   , Kraus     , Marketing, Analyst    , 43000
+26, Zacharias, Hartmann  , Finance  , Specialist , 49000
+27, Annika   , Sauer     , HR       , Manager    , 68000
+28, Bastian  , Fuchs     , IT       , Developer  , 61000
+29, Carola   , Huber     , Marketing, Coordinator, 36000
+30, Dietmar  , Vogel     , Finance  , Analyst    , 46000
+31, Elke     , Keller    , HR       , Specialist , 40000
+32, Felix    , Bergmann  , IT       , Manager    , 82000
+33, Gisela   , Böhm      , Marketing, Specialist , 42000
+34, Heinrich , Schuster  , Finance  , Coordinator, 39000
+35, Ilse     , Maier     , HR       , Analyst    , 43000
+36, Jürgen   , Lehmann   , IT       , Developer  , 60000
+37, Kerstin  , Werner    , Marketing, Manager    , 64000
+38, Ludwig   , Schubert  , Finance  , Specialist , 50000
+39, Monika   , Baumann   , HR       , Coordinator, 38000
+40, Norbert  , Pfeiffer  , IT       , Architect  , 76000
+41, Ottilie  , Engel     , Marketing, Analyst    , 44000
+42, Paul     , Roth      , Finance  , Manager    , 74000
+43, Quentin  , Vogt      , HR       , Specialist , 41000
+44, Renate   , Kuhn      , IT       , Developer  , 62000
+45, Siegfried, Ernst     , Marketing, Coordinator, 38000
+46, Tanja    , Haas      , Finance  , Analyst    , 47000
+47, Ulrich   , Götz      ,          , Specialist , 
+48, Verena   , Ott       , IT       , Manager    , 84000
+49, Wolfgang , Arnold    , Marketing, Analyst    , 45000
+50, Xenia    , Gruber    , Finance  , Coordinator, 40000

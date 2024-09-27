@@ -1,0 +1,51 @@
+ProjectID, ProjectName                      , AssignedEmployeeID, ProjectRevenue, ProjectCost, StartDate , EndDate   , ProjectStatus
+P101     , API Overhaul                     , 1                 , 250000        , 180000     , 2023-01-01, 2023-06-30, Completed
+P102     , Predictive Analytics             , 2                 , 300000        , 220000     , 2023-02-15, 2023-08-15, In Progress
+P103     , Global Expansion                 , 3                 , 400000        , 350000     , 2023-03-01, 2023-12-31, In Progress
+P104     , Social Media Campaign            , 4                 , 150000        , 100000     , 2023-04-01, 2023-07-31, Completed
+P105     , UI Redesign                      , 5                 , 200000        , 150000     , 2023-05-01, 2023-09-30, In Progress
+P106     , Talent Acquisition               , 6                 , 100000        , 80000      , 2023-06-01, 2023-08-31, Completed
+P107     , Financial Reporting System       , 7                 , 280000        , 200000     , 2023-01-15, 2023-07-15, In Progress
+P108     , New Product Launch               , 8                 , 500000        , 400000     , 2023-03-15, 2024-03-14, In Progress
+P109     , Support Ticketing System         , 9                 , 120000        , 90000      , 2023-07-01, 2023-10-31, Not Started
+P110     , Data Warehouse Upgrade           , 10                , 350000        , 270000     , 2023-02-01, 2023-08-31, In Progress
+P111     , Mobile App Development           , 11                , 280000        , 210000     , 2023-03-01, 2023-09-30, In Progress
+P112     , Sales Automation                 , 12                , 220000        , 170000     , 2023-04-15, 2023-10-15, In Progress
+P113     , Content Marketing Strategy       , 13                , 130000        , 95000      , 2023-05-01, 2023-08-31, Completed
+P114     , Customer Segmentation            , 14                , 180000        , 140000     , 2023-06-01, 2023-11-30, In Progress
+P115     , DevOps Implementation            , 15                , 250000        , 190000     , 2023-02-15, 2023-08-15, In Progress
+P116     , Employee Training Program        , 16                , 90000         , 70000      , 2023-07-01, 2023-09-30, Not Started
+P117     , Investment Portfolio Optimization, 17                , 320000        , 260000     , 2023-01-01, 2023-12-31, In Progress
+P118     , UX Research                      , 18                , 150000        , 110000     , 2023-04-01, 2023-07-31, Completed
+P119     , Customer Support Chatbot         , 19                , 200000        , 160000     , 2023-05-15, 2023-11-15, In Progress
+P120     , Machine Learning Model Deployment, 20                , 380000        , 300000     , 2023-03-01, 2023-12-31, In Progress
+P121     , Cloud Migration                  , 21                , 420000        , 340000     , 2023-02-01, 2023-10-31, In Progress
+P122     , Account-Based Marketing          , 22                , 280000        , 220000     , 2023-04-01, 2023-09-30, In Progress
+P123     , Brand Refresh                    , 23                , 180000        , 140000     , 2023-06-15, 2023-10-15, In Progress
+P124     , Data Visualization Dashboard     , 24                , 220000        , 170000     , 2023-05-01, 2023-09-30, In Progress
+P125     , Cybersecurity Upgrade            , 25                , 350000        , 280000     , 2023-03-15, 2023-11-15, In Progress
+P126     , HR Analytics Platform            , 26                , 150000        , 120000     , 2023-07-01, 2023-12-31, Not Started
+P127     , Regulatory Compliance System     , 27                , 300000        , 240000     , 2023-01-15, 2023-09-15, In Progress
+P128     , Product Roadmap Development      , 28                , 180000        , 140000     , 2023-04-01, 2023-08-31, Completed
+P129     , Customer Feedback Analysis       , 29                , 120000        , 90000      , 2023-06-01, 2023-09-30, In Progress
+P130     , Natural Language Processing Tool , 30                , 400000        , 320000     , 2023-02-15, 2023-11-15, In Progress
+P131     , Microservices Architecture       , 31                , 380000        , 300000     , 2023-03-01, 2023-12-31, In Progress
+P132     , Sales Territory Optimization     , 32                , 200000        , 160000     , 2023-05-15, 2023-10-15, In Progress
+P133     , Influencer Marketing Campaign    , 33                , 150000        , 120000     , 2023-07-01, 2023-11-30, Not Started
+P134     , Big Data Analytics Platform      , 34                , 450000        , 360000     , 2023-01-01, 2023-12-31, In Progress
+P135     , Responsive Web Design            , 35                , 180000        , 140000     , 2023-04-15, 2023-08-15, Completed
+P136     , Talent Retention Program         , 36                , 100000        , 80000      , 2023-06-01, 2023-09-30, In Progress
+P137     , Financial Risk Assessment        , 37                , 250000        , 200000     , 2023-02-01, 2023-08-31, In Progress
+P138     , Agile Transformation             , 38                , 300000        , 240000     , 2023-03-15, 2023-11-15, In Progress
+P139     , Knowledge Management System      , 39                , 140000        , 110000     , 2023-05-01, 2023-09-30, In Progress
+P140     , AI-Powered Recommendation Engine , 40                , 420000        , 340000     , 2023-01-15, 2023-10-15, In Progress
+P141     , Continuous Integration Pipeline  , 41                , 280000        , 220000     , 2023-04-01, 2023-10-31, In Progress
+P142     , Partner Relationship Management  , 42                , 220000        , 180000     , 2023-06-15, 2023-11-15, Not Started
+P143     , Video Marketing Strategy         , 43                , 180000        , 140000     , 2023-03-01, 2023-07-31, Completed
+P144     , Statistical Modeling Tool        , 44                , 320000        , 260000     , 2023-02-15, 2023-09-15, In Progress
+P145     , Cross-Platform Mobile Development, 45                , 300000        , 240000     , 2023-05-01, 2023-11-30, In Progress
+P146     , Employee Engagement Survey       , 46                , 80000         , 60000      , 2023-07-15, 2023-09-15, Not Started
+P147     , Algorithmic Trading System       , 47                , 380000        , 300000     , 2023-01-01, 2023-12-31, In Progress
+P148     , Product Analytics Dashboard      , 48                , 220000        , 170000     , 2023-04-15, 2023-09-15, In Progress
+P149     , Customer Loyalty Program         , 49                , 150000        , 120000     , 2023-06-01, 2023-10-31, In Progress
+P150     , Deep Learning Research           , 50                , 500000        , 400000     , 2023-02-01, 2024-01-31, In Progress
